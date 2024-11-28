@@ -6,7 +6,7 @@ import Popup from '../../components/popup/popup'
 function Tasks() {
   //To make the popup screen visible by anslin
   const [ismodalVisible, setismodalVisible] = useState(false)
-  //To validate input fields in popup
+  //To validate input fields in popup by anslin
   const [taskTitle, settaskTitle] = useState('')
   const [taskDescription, settaskDescription] = useState('')
   //To store the list 
