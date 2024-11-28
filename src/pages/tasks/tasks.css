@@ -1,0 +1,29 @@
+.mainTaskContainer{
+    display: flex;
+    flex-direction: column;
+}
+.taskHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px;
+}
+.addButton{
+    border: none;
+    background-color: blueviolet;
+    font-size: 12px;
+    width: 80px;
+    border-radius: 15px;
+    height: 40px;
+    color: white;
+}
+.taskLoop{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 100%;
+}
+.mainPop{
+    position: absolute;
+    left: 0;
+}

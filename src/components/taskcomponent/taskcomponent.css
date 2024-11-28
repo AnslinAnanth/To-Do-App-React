@@ -1,0 +1,21 @@
+.mainTask{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    background-color: bisque;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
+.doneButton{
+    border: none;
+    background-color: blueviolet;
+    font-size: 12px;
+    width: 80px;
+    border-radius: 15px;
+    height: 40px;
+    color: white;
+}

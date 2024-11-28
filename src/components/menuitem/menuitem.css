@@ -1,0 +1,18 @@
+.mainMenuItem{
+    background-color: rgba(245, 245, 245, 0.155);
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.mainMenuItemSelected{
+    background-color: white;
+    width: 80%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    cursor: pointer;
+}

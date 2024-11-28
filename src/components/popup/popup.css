@@ -1,0 +1,31 @@
+.pop{
+width: 100vw;
+height: 100vh;
+background-color: rgba(66, 64, 64, 0.495);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.mainPopUp{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    background-color:white;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.popupTitle{
+    padding: 10px;
+}
+textarea{
+    padding: 10px;
+}
+.btn{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 10px;
+}
