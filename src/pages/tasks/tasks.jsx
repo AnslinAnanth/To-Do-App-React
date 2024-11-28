@@ -4,7 +4,7 @@ import './tasks.css'
 import Popup from '../../components/popup/popup'
 
 function Tasks() {
-  //To make the popup screen visible 
+  //To make the popup screen visible by anslin
   const [ismodalVisible, setismodalVisible] = useState(false)
   //To validate input fields in popup
   const [taskTitle, settaskTitle] = useState('')
